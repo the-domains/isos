@@ -1,0 +1,28 @@
+name: iSOS
+favicon: null
+layout_spectrum: 0.20663979835808277
+typography_spectrum: 0.668638737173751
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3633938126731664
+  lightness: 0.07070007524453104
+  saturation: 0.7122598860878497
+  rhythmicContrast: 0.8825492423493415
+purpose: []

@@ -2,6 +2,7 @@ name: iSOS
 favicon: null
 layout_spectrum: 0.20663979835808277
 typography_spectrum: 0.668638737173751
+title: iSOS
 cta:
   domain: null
   bucket: null

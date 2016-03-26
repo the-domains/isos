@@ -1,7 +1,7 @@
 name: iSOS
 favicon: null
-layout_spectrum: 0.20663979835808277
-typography_spectrum: 0.668638737173751
+layout_spectrum: 0.69077
+typography_spectrum: 0.07142
 title: iSOS
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#fc28fc'
+    - '#ffffff'
+    - '#485966'
+    - '#c2c4b8'
+    - '#f470e8'
   brandStrength: 0.3633938126731664
-  lightness: 0.07070007524453104
-  saturation: 0.7122598860878497
-  rhythmicContrast: 0.8825492423493415
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
